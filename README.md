@@ -1,2 +1,6 @@
-# notes
-Miscellaneous notes
+# Notes
+
+* [Books](./books)
+* [People](./people)
+* [Web](./web)
+
