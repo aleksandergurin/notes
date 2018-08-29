@@ -1,3 +1,6 @@
+Physics
+- Gennadi Sardanashvily (1950 - 2016)
+
 Semiotics
 
 - Ferdinand de Saussure (1857–1913)
