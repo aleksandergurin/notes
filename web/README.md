@@ -12,6 +12,7 @@
 - [LevelNews](https://levelnews.org/) - Independent news index
 - [Pxlet](http://www.pxlet.com/) - Tech news meta-aggregator
 - [SkimFeed](http://skimfeed.com/) - Tech news meta-aggregator
+- [The Paris Review](https://www.theparisreview.org/) - Literary magazine
 
 ## Social
 
