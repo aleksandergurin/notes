@@ -1,6 +1,7 @@
 # Music
 
 ## Electronic
+- Ametsub
 - Aphex Twin
 - Autechre
 - Boards of Canada
