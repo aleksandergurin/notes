@@ -7,6 +7,7 @@
 * [Other](#other)
 
 ## News
+- [The New York Times](https://www.nytimes.com/)
 - [CNN Lite](http://lite.cnn.io/en) - Cable News Network (US news company)
 - [NPR Thin](http://thin.npr.org/) - National Public Radio (US news company)
 - [LevelNews](https://levelnews.org/) - Independent news index
