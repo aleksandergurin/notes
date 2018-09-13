@@ -27,3 +27,8 @@
 - Christian Metz (1931 – 1993)
 - Umberto Eco (1932 – 2016)
 
+
+## Computers and programming
+
+- Georg Nees (1926 - 2016)
+
