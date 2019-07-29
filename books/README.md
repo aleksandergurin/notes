@@ -8,6 +8,10 @@
 - Radford, Andrew (2012). _Syntax: A Minimalist Introduction_. Cambridge University Press.
 - Van Valin, Robert. (2001). _An Introduction to Syntax_. Cambridge University Press.
 - Tallerman, Maggie (2014). _Understanding Syntax_. Routledge.
+- Тестелец Я. Г. (2001). _Введение в общий синтаксис_. М.: РГГУ.
+
+### Morphology
+- Плунгян В. А. (2003). _Общая морфология: введение в проблематику_ (5-е изд.) — М.: УРСС.
 
 ## Anthropology
 - Lévi-Strauss, Claude (1978). _Myth and Meaning_. Routledge.
