@@ -22,3 +22,7 @@
 - Newport, Cal (2012). _So Good They Can't Ignore You_. Grand Central Publishing.
 - Burger, Edward; Starbird, Michael (2012). _The 5 Elements of Effective Thinking_. Princeton University Press.
 
+## Fiction
+- Yalom, Irvin (1996). _Lying on the Couch_. Basic Books.
+- Yalom, Irvin (2005). _The Schopenhauer Cure_. HarperCollins.
+
