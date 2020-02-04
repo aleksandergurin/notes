@@ -18,3 +18,4 @@
 - The Future Sound of London
 - deadmau5
 - mind.in.a.box
+- Floating Points
