@@ -21,6 +21,7 @@
 - Newport, Cal (2016). _Deep Work_. Grand Central Publishing.
 - Newport, Cal (2012). _So Good They Can't Ignore You_. Grand Central Publishing.
 - Burger, Edward; Starbird, Michael (2012). _The 5 Elements of Effective Thinking_. Princeton University Press.
+- Арнольд ван де Лаар (2019). _Разрез! История хирургии в 28 операциях_. Форс.
 
 ## Fiction
 - Yalom, Irvin (1996). _Lying on the Couch_. Basic Books.
