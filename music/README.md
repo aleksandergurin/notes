@@ -23,3 +23,8 @@
 - The Future Sound of London
 - deadmau5
 - mind.in.a.box
+
+## Albums
+- DJ Shadow - Endtroducing..... (1996)
+- Nick Cave and the Bad Seeds - Murder Ballads (1996)
+- Radiohead - OK Computer (1997)
