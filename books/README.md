@@ -16,6 +16,9 @@
 ## Anthropology
 - Lévi-Strauss, Claude (1978). _Myth and Meaning_. Routledge.
 
+## Semiotics
+- Danesi, Marcel (2007). _The Quest for Meaning_ University of Toronto Press.
+
 ## Non-fiction
 - Kukla, Andre (2007). _Mental Traps_. Anchor Canada.
 - Newport, Cal (2016). _Deep Work_. Grand Central Publishing.
