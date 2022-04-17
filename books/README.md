@@ -17,15 +17,56 @@
 - _Claude Lévi-Strauss_, Myth and Meaning. Routledge, 1978
 
 ## Psychology
-- _William James_, The Principles of Psychology. 1890
-- _Jean Piaget_, The Language and Thought of the Child. 1926
-- _Oliver Sacks_, he Man Who Mistook His Wife for a Hat. 1985
-- _Steven Pinker_, The Blank Slate: The Modern Denial of Human Nature. 2002
-- _Sandra Blakeslee, V. S. Ramachandran_, Phantoms in the Brain: Probing the Mysteries of the Human Mind. 1998
-- _Hans Eysenck_, Dimensions of Personality. 1947
+- _Alfred Adler_, Understanding Human Nature. 1927
+- _Gavin Becker_, The Gift of Fear. 1997
+- _Eric Berne_, Games People Play. 1964
+- _Edward de Bono_, Lateral Thinking. 1970
+- _Robert Bolton_, People Skills. 1979
+- _Nathaniel Branden_, The Psychology of Self-Esteem. 1969
 - _Isabel Briggs Myers_, Gifts Differing: Understanding Personality Type. 1980
-- _Erik Erikson_, Young Man Luther: A Study in Psychoanalysis and History. 1958
-
+- _Louann Brizendine_, The Female Brain. 2006
+- _David D Burns_, Feeling Good: The New Mood Therapy. 1980
+- _Robert Cialdini_, Influence: The Psychology of Persuasion. 1984
+- _Mihaly Csikszentmihalyi_, Creativity. 1997
+- _Albert Ellis & Robert Harper_, A Guide To Rational Living. 1961
+- _Sidney Rosen_, Milton Erickson: My Voice Will Go With You. 1982
+- _Eric Erikson_, Young Man Luther. 1958
+- _Hans Eysenck_, Dimensions of Personality. 1947
+- _Susan Forward_, Emotional Blackmail. 1997
+- _Viktor Frankl_, The Will to Meaning. 1969
+- _Anna Freud_, The Ego and the Mechanisms of Defense. 1936
+- _Sigmund Freud_, The Interpretation of Dreams. 1901
+- _Howard Gardner_, Frames of Mind: The Theory of Multiple Intelligences. 1983
+- _Daniel Gilbert_, Stumbling on Happiness. 2006
+- _Malcolm Gladwell_, Blink: The Power of Thinking Without Thinking. 2005
+- _Daniel Goleman_, Emotional Intelligence at Work. 1998
+- _John M Gottman_, The Seven Principles for Making Marriage Work. 1999
+- _Harry Harlow_, The Nature of Love. 1958
+- _Thomas A Harris_, I'm OK - You're OK. 1967
+- _Eric Hoffer_, The True Believer: Thoughts on the Nature of Mass Movements. 1951
+- _Karen Horney_, Our Inner Conflicts. 1945
+- _William James_, Principles of Psychology. 1890
+- _Carl Jung_, The Archetypes and the Collective Unconscious. 1953
+- _Alfred Kinsey_, Sexual Behavior in the Human Female. 1953
+- _Melanie Klein_, Envy and Gratitude. 1975
+- _RD Laing_, The Divided Self. 1959
+- _Abraham Maslow_, The Farther Reaches of Human Nature. 1970
+- _Stanley Milgram_, Obedience To Authority. 1974
+- _Anne Moir & David Jessel_, Brainsex: The Real Difference Between Men and Women. 1989
+- _I.P. Pavlov_, Conditioned Reflexes. 1927
+- _Fritz Perls_, Gestalt Therapy: Excitement and Growth in the Human Personality. 1951
+- _Jean Piaget_, The Language and Thought of the Child. 1966
+- _Steven Pinker_, The Blank Slate: The Modern Denial of Human Nature. 2002
+- _V.S. Ramachandran_, Phantoms in the Brain. 1998
+- _Carl Rogers_, On Becoming a Person. 1961
+- _Oliver Sacks_, The Man Who Mistook His Wife for a Hat. 1970
+- _Barry Schwartz_, The Paradox of Choice: Why More is Less. 2004
+- _Martin Seligman_, Authentic Happiness. 2002
+- _Gail Sheehy_, Passages: Predictable Crises of Adult Life. 1974
+- _B.F. Skinner_, Beyond Freedom & Dignity. 1953
+- _Douglas Stone, Bruce Patton & Sheila Heen_, Difficult Conversations. 2000
+- _William Styron_, Darkness Visible. 1990
+- _Robert E Thayer_, The Origin of Everyday Moods. 1996
 
 ## Semiotics
 - _Marcel Danesi_, The Quest for Meaning. University of Toronto Press, 2007
