@@ -3,30 +3,40 @@
 ## Linguistics
 
 ### Syntax
-- Carnie, Andrew (2006). _Syntax: A Generative Introduction_ (2nd ed.). Oxford: Wiley-Blackwell.
-- Newson, Mark (2006). _Basic English Syntax with Exercises_. Bölcsész Konzorcium. 
-- Radford, Andrew (2012). _Syntax: A Minimalist Introduction_. Cambridge University Press.
-- Van Valin, Robert. (2001). _An Introduction to Syntax_. Cambridge University Press.
-- Tallerman, Maggie (2014). _Understanding Syntax_. Routledge.
-- Тестелец Я. Г. (2001). _Введение в общий синтаксис_. М.: РГГУ.
+- _Andrew Carnie_, Syntax: A Generative Introduction (2nd ed.). Oxford: Wiley-Blackwell, 2006 (*)
+- _Тестелец Я. Г._, Введение в общий синтаксис. М.: РГГУ, 2001 (*)
+- _Mark Newson_, Basic English Syntax with Exercises. Bölcsész Konzorcium, 2006
+- _Andrew Radford_, Syntax: A Minimalist Introduction. Cambridge University Press, 2012
+- _Robert Van Valin_, An Introduction to Syntax. Cambridge University Press, 2001
+- _Maggie Tallerman_, Understanding Syntax. Routledge, 2014
 
 ### Morphology
-- Плунгян В. А. (2003). _Общая морфология: введение в проблематику_ (5-е изд.) — М.: УРСС.
+- _Плунгян В. А._, Общая морфология: введение в проблематику (5-е изд.). М.: УРСС, 2003 (*)
 
 ## Anthropology
-- Lévi-Strauss, Claude (1978). _Myth and Meaning_. Routledge.
+- _Claude Lévi-Strauss_, Myth and Meaning. Routledge, 1978
+
+## Psychology
+- _William James_, The Principles of Psychology. 1890
+- _Jean Piaget_, The Language and Thought of the Child. 1926
+- _Oliver Sacks_, he Man Who Mistook His Wife for a Hat. 1985
+- _Steven Pinker_, The Blank Slate: The Modern Denial of Human Nature. 2002
+- _Sandra Blakeslee, V. S. Ramachandran_, Phantoms in the Brain: Probing the Mysteries of the Human Mind. 1998
+- _Hans Eysenck_, Dimensions of Personality. 1947
+- _Isabel Briggs Myers_, Gifts Differing: Understanding Personality Type. 1980
+- _Erik Erikson_, Young Man Luther: A Study in Psychoanalysis and History. 1958
+
 
 ## Semiotics
-- Danesi, Marcel (2007). _The Quest for Meaning_ University of Toronto Press.
+- _Marcel Danesi_, The Quest for Meaning. University of Toronto Press, 2007
 
 ## Non-fiction
-- Kukla, Andre (2007). _Mental Traps_. Anchor Canada.
-- Newport, Cal (2016). _Deep Work_. Grand Central Publishing.
-- Newport, Cal (2012). _So Good They Can't Ignore You_. Grand Central Publishing.
-- Burger, Edward; Starbird, Michael (2012). _The 5 Elements of Effective Thinking_. Princeton University Press.
-- Арнольд ван де Лаар (2019). _Разрез! История хирургии в 28 операциях_. Форс.
+- _Edward Burger, Michael Starbird_, The 5 Elements of Effective Thinking. Princeton University Press, 2012 (*)
+- _Andre Kukla_, Mental Traps. Anchor Canada, 2007
+- _Cal Newport_, Deep Work. Grand Central Publishing, 2016
+- _Cal Newport_, So Good They Can't Ignore You. Grand Central Publishing, 2012
+- _Арнольд ван де Лаар_, Разрез! История хирургии в 28 операциях. Форс, 2019
 
 ## Fiction
-- Yalom, Irvin (1996). _Lying on the Couch_. Basic Books.
-- Yalom, Irvin (2005). _The Schopenhauer Cure_. HarperCollins.
-
+- _Irvin Yalom_, Lying on the Couch. Basic Books, 1996
+- _Irvin Yalom_, The Schopenhauer Cure. HarperCollins, 2005
