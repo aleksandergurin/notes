@@ -14,6 +14,7 @@
 - Kraftwerk
 - LFO
 - Monolake
+- Phuture
 - Plaid
 - Solar Fields
 - Suduaya
