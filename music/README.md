@@ -25,6 +25,10 @@
 - deadmau5
 - mind.in.a.box
 
+## Rock
+- The Stranglers
+- Pink Floyd
+
 ## Albums
 - DJ Shadow - Endtroducing..... (1996)
 - Nick Cave and the Bad Seeds - Murder Ballads (1996)
