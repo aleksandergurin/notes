@@ -29,6 +29,7 @@
 ## Rock
 - The Stranglers
 - Pink Floyd
+- David Bowie
 
 ## Albums
 - DJ Shadow - Endtroducing..... (1996)
