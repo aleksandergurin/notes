@@ -22,6 +22,7 @@
 - The Chemical Brothers
 - The Crystal Method
 - The Future Sound of London
+- The Prodigy
 - deadmau5
 - mind.in.a.box
 
@@ -33,3 +34,4 @@
 - DJ Shadow - Endtroducing..... (1996)
 - Nick Cave and the Bad Seeds - Murder Ballads (1996)
 - Radiohead - OK Computer (1997)
+- The Prodigy - The Fat of the Land (1997)
