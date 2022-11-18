@@ -14,6 +14,7 @@
 - Kraftwerk
 - Klaus Schulze
 - LFO
+- Massive Attack
 - Monolake
 - Phuture
 - Plaid
