@@ -12,6 +12,7 @@
 - Four Tet
 - Koan
 - Kraftwerk
+- Klaus Schulze
 - LFO
 - Monolake
 - Phuture
