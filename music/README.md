@@ -7,6 +7,7 @@
 - Boards of Canada
 - Bola (Darrell Fitton)
 - Carbon Based Lifeforms
+- Deru
 - Floating Points
 - Fluke
 - Four Tet
