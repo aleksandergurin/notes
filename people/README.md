@@ -3,6 +3,7 @@
 
 ## Physics
 - Gennadi Sardanashvily (1950 - 2016)
+- Freeman Dyson (1923 - 1920)
 
 
 ## Linguistics
@@ -13,6 +14,8 @@
 - John Lyons (1932)
 - Anna Wierzbicka (1938)
 
+## Philosophy
+- Gershom Sholem (1897 - 1982)
 
 ## Semiotics
 - Ferdinand de Saussure (1857 – 1913)
