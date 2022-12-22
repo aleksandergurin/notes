@@ -11,6 +11,7 @@
 - Floating Points
 - Fluke
 - Four Tet
+- Jean-Michel Jarre
 - Koan
 - Kraftwerk
 - Klaus Schulze
