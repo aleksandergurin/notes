@@ -16,6 +16,10 @@
 
 ## Philosophy
 - Gershom Sholem (1897 - 1982)
+- Ludwig Wittgenstein (1889 - 1951)
+- Gilbert Ryle (1900 - 1976)
+- John Langshaw Austin (1911 - 1960)
+- John Rogers Searle (1932 - )
 
 ## Semiotics
 - Ferdinand de Saussure (1857 – 1913)
