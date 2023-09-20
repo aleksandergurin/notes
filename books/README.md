@@ -17,6 +17,7 @@
 - _Claude Lévi-Strauss_, Myth and Meaning. Routledge, 1978
 
 ## Psychology
+- _Carl Jung_, Man and his Symbols. 1964
 - _Alfred Adler_, Understanding Human Nature. 1927
 - _Gavin Becker_, The Gift of Fear. 1997
 - _Eric Berne_, Games People Play. 1964
