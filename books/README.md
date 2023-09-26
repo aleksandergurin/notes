@@ -16,6 +16,9 @@
 ## Anthropology
 - _Claude Lévi-Strauss_, Myth and Meaning. Routledge, 1978
 
+## Philosophy
+- _Анрі Бергсон_, Творча еволюція, 2010 (_Henri Bergson_, L'Évolution créatrice, 1907)
+
 ## Psychology
 - _Carl Jung_, Man and his Symbols. 1964
 - _Alfred Adler_, Understanding Human Nature. 1927
