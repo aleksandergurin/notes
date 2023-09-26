@@ -7,6 +7,7 @@
 - Boards of Canada
 - Bola (Darrell Fitton)
 - Carbon Based Lifeforms
+- Clark
 - Deru
 - Floating Points
 - Fluke
@@ -37,6 +38,7 @@
 - Control Denied
 
 ## Albums
+- Boards of Canada - Tomorrow's Harvest (2013)
 - DJ Shadow - Endtroducing..... (1996)
 - Nick Cave and the Bad Seeds - Murder Ballads (1996)
 - Radiohead - OK Computer (1997)
