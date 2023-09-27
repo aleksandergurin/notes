@@ -18,6 +18,7 @@
 
 ## Philosophy
 - _Анрі Бергсон_, Творча еволюція, 2010 (_Henri Bergson_, L'Évolution créatrice, 1907)
+- _Nick Land_, Fanged Noumena: Collected Writings 1987-2007, Urbanomic, 2011
 
 ## Psychology
 - _Carl Jung_, Man and his Symbols. 1964
