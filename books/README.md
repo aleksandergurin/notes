@@ -73,11 +73,14 @@
 - _William Styron_, Darkness Visible. 1990
 - _Robert E Thayer_, The Origin of Everyday Moods. 1996
 
+### Education and mental models
+- _Курінский В. О._, Самоосвітні роздуми. Kyiv, 2001
+- _Edward Burger, Michael Starbird_, The 5 Elements of Effective Thinking. Princeton University Press, 2012 (*)
+
 ## Semiotics
 - _Marcel Danesi_, The Quest for Meaning. University of Toronto Press, 2007
 
 ## Non-fiction
-- _Edward Burger, Michael Starbird_, The 5 Elements of Effective Thinking. Princeton University Press, 2012 (*)
 - _Andre Kukla_, Mental Traps. Anchor Canada, 2007
 - _Cal Newport_, Deep Work. Grand Central Publishing, 2016
 - _Cal Newport_, So Good They Can't Ignore You. Grand Central Publishing, 2012
