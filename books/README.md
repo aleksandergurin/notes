@@ -80,6 +80,20 @@
 ## Semiotics
 - _Marcel Danesi_, The Quest for Meaning. University of Toronto Press, 2007
 
+## Strange
+The following books have interesting interconnections.
+
+_Jack Sarfatti_ use idea about **retrocausality** (wikipedia: "a concept of cause and effect in which an effect precedes its cause in time and so a later event affects an earlier one"). He use it in works on consciousness, in a hypothesis that consciousness can receive information from the future. As a result consciousness can be part of some self-actualization of the universe.
+
+_Philip K. Dick_ had a hypothesis that **tachions** are the particles that transfer information about the future to the present. He even claimed that he received such an information from the future (see: 2-3-74 event).
+
+_Cybernetic Culture Research Unit (CCRU)_ had a concept of **hyperstition** (according to _Nick Land_, hyperstitions are ideas that, by their very existence as ideas, bring about their own reality).
+
+- Gladstone, David; Sarfatti, Jack (2023). _The Great Race: Physics, Paranormal, Time Travel, UFOs_. Independently published. ISBN 979-8850432850.
+- Dick, Philip K. (2011). Jackson, Pamela; Lethem, Jonathan (eds.). _The Exegesis of Philip K. Dick_. Boston: Houghton Mifflin Harcourt. ISBN 978-0-547-54927-9.
+- CCRU (2017). _Writings 1997–2003_. Urbanomic. ISBN 9780995455061.
+
+
 ## Non-fiction
 - _Andre Kukla_, Mental Traps. Anchor Canada, 2007
 - _Cal Newport_, Deep Work. Grand Central Publishing, 2016
