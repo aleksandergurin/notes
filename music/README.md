@@ -9,6 +9,7 @@
 - Carbon Based Lifeforms
 - Clark
 - Deru
+- Fatboy Slim
 - Floating Points
 - Fluke
 - Four Tet
@@ -44,3 +45,4 @@
 - Radiohead - OK Computer (1997)
 - The Prodigy - The Fat of the Land (1997)
 - Control Denied - The Fragile Art of Existence (1999)
+- Fatboy Slim - You've Come a Long Way, Baby (1998)
