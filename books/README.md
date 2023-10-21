@@ -3,7 +3,7 @@
 ## Mathematics
 
 ### Popular
-Weyl, Herman (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3
+Weyl, Hermann (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3
 
 ## Linguistics
 
