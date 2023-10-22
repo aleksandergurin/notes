@@ -80,7 +80,8 @@ Weyl, Hermann (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3
 
 ### Education and mental models
 - _Курінский В. О._, Самоосвітні роздуми. Kyiv, 2001
-- _Edward Burger, Michael Starbird_, The 5 Elements of Effective Thinking. Princeton University Press, 2012 (*)
+- Burger, Edward; Starbird, Michael (2012). _The 5 Elements of Effective Thinking_. Princeton University Press. ISBN: 9780691156668 (*)
+- Adler, Mortimer J., Van Doren, Charles (1972). _How to read a book_. New York: Simon and Schuster. ISBN 1-567-31010-9.
 
 ## Semiotics
 - _Marcel Danesi_, The Quest for Meaning. University of Toronto Press, 2007
