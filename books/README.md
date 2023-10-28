@@ -2,6 +2,9 @@
 
 ## Mathematics
 
+### Geometry
+Cannon, James W. (2017). _Two-Dimensional Spaces, Volumes 1, 2, and 3_. American Mathematical Society.
+
 ### Popular
 Weyl, Hermann (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3
 
