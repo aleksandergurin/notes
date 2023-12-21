@@ -3,10 +3,13 @@
 ## Mathematics
 
 ### Geometry
-Cannon, James W. (2017). _Two-Dimensional Spaces, Volumes 1, 2, and 3_. American Mathematical Society.
+Cannon, James W. (2017). _Two-Dimensional Spaces_, Volumes 1, 2, and 3. American Mathematical Society.
+
+### Linear algebra and geometry
+Banchoff, Thomas; Wermer, John (1992). _Linear Algebra Through Geometry_ (2nd ed.). Springer. ISBN 978-0-387-97586-3.
 
 ### Popular
-Weyl, Hermann (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3
+Weyl, Hermann (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3.
 
 ## Linguistics
 
