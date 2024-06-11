@@ -3,7 +3,20 @@
 ## Mathematics
 
 ### Geometry
-Cannon, James W. (2017). _Two-Dimensional Spaces_, Volumes 1, 2, and 3. American Mathematical Society.
+- Cannon, James W. (2017). _Two-Dimensional Spaces_, Volumes 1, 2, and 3. American Mathematical Society.
+- Bonahon, Francis (2009). _Low-Dimensional Geometry_. American Mathematical Society.
+
+#### Euclidean
+- Coxeter, H. S. M.; Greitzer, Samuel L. (1996). _Geometry Revisited_. American Mathematical Society.
+- Altshiller-Court, Nathan (2007). _College Geometry_. Dover Publications (2nd Revised ed.).
+- Johnson, Roger A. (2007). _Advanced Euclidean Geometry_. Dover Publications.
+- Honsberger, Ross (1996). _Episodes in Nineteenth and Twentieth Century Euclidean Geometry_. The Mathematical Association of America.
+- Posamentier, Alfred S. (2002). _Advanced Euclidean Geometry_. Key College Publishing.
+- Hadamard, Jacques (2008). _Lessons in Geometry_. American Mathematical Society.
+- Agricola, Ilka; Friedrich, Thomas (2008). _Elementary Geometry_. American Mathematical Society.
+- Moise, Edwin E. (1990). _Elementary Geometry from an Advanced Standpoint_. Addison-Wesley Publishing Company.
+- Pedoe, Dan (1970). _Geometry_. Dover Publications.
+- Perry, Earl (1992). _Geometry. Axiomatic Development with Problem Solving_. Marcel Dekker.
 
 ### Linear algebra and geometry
 Banchoff, Thomas; Wermer, John (1992). _Linear Algebra Through Geometry_ (2nd ed.). Springer. ISBN 978-0-387-97586-3.
