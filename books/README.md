@@ -41,8 +41,9 @@ Weyl, Hermann (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3
 - _Claude Lévi-Strauss_, Myth and Meaning. Routledge, 1978
 
 ## Philosophy
-- _Анрі Бергсон_, Творча еволюція, 2010 (_Henri Bergson_, L'Évolution créatrice, 1907)
-- _Nick Land_, Fanged Noumena: Collected Writings 1987-2007, Urbanomic, 2011
+- Бергсон, Анрі (2010). _Творча еволюція_. (Bergson, Henri (1907). _L'Évolution créatrice_. )
+- Land, Nick (2011). _Fanged Noumena: Collected Writings 1987-2007_. Urbanomic.
+- Chalmers, David J. (2022). _Reality+: Virtual Worlds and the Problems of Philosophy_. WW Norton.
 
 ## Psychology
 - _Carl Jung_, Man and his Symbols. 1964
