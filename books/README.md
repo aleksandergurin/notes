@@ -12,6 +12,7 @@
 - Johnson, Roger A. (2007). _Advanced Euclidean Geometry_. Dover Publications.
 - Honsberger, Ross (1996). _Episodes in Nineteenth and Twentieth Century Euclidean Geometry_. The Mathematical Association of America.
 - Posamentier, Alfred S. (2002). _Advanced Euclidean Geometry_. Key College Publishing.
+- Hartshorne, Robin. (2000). _Geometry: Euclid and Beyond_. Springer.
 - Hadamard, Jacques (2008). _Lessons in Geometry_. American Mathematical Society.
 - Agricola, Ilka; Friedrich, Thomas (2008). _Elementary Geometry_. American Mathematical Society.
 - Moise, Edwin E. (1990). _Elementary Geometry from an Advanced Standpoint_. Addison-Wesley Publishing Company.
