@@ -85,7 +85,10 @@ Weyl, Hermann (1952). _Symmetry_. Princeton University Press. ISBN 0-691-02374-3
 - _Stanley Milgram_, Obedience To Authority. 1974
 - _Anne Moir & David Jessel_, Brainsex: The Real Difference Between Men and Women. 1989
 - _I.P. Pavlov_, Conditioned Reflexes. 1927
-- _Fritz Perls_, Gestalt Therapy: Excitement and Growth in the Human Personality. 1951
+- <details>
+    <summary>Perls, Fritz (1951).<i>Gestalt Therapy: Excitement and Growth in the Human Personality.<i></summary>
+    https://www.youtube.com/watch?v=GPekrkRxv-M
+  </details>
 - _Jean Piaget_, The Language and Thought of the Child. 1966
 - _Steven Pinker_, The Blank Slate: The Modern Denial of Human Nature. 2002
 - _V.S. Ramachandran_, Phantoms in the Brain. 1998
