@@ -38,6 +38,7 @@
 - Pink Floyd
 - David Bowie
 - Control Denied
+- Joy Division
 
 ## Albums
 - Boards of Canada - Tomorrow's Harvest (2013)
