@@ -5,6 +5,7 @@
 - Aphex Twin
 - Autechre
 - Boards of Canada
+- Tycho
 - Bola (Darrell Fitton)
 - Carbon Based Lifeforms
 - Clark
