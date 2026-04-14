@@ -40,6 +40,7 @@
 - David Bowie
 - Control Denied
 - Joy Division
+- Kasabian
 
 ## Albums
 - Boards of Canada - Tomorrow's Harvest (2013)
