@@ -33,6 +33,7 @@
 - deadmau5
 - mind.in.a.box
 - Younger Brother
+- William Basinski
 
 ## Rock
 - The Stranglers
